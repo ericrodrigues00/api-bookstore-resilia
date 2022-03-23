@@ -21,10 +21,10 @@
     
 -   Instale as dependências
     
-    `npm install uuid
-    npm install sqlite3
-    npm install express
-    npm install sequelize`
+    `npm install uuid`
+    `npm install sqlite3`
+    `npm install express`
+    `npm install sequelize`
     
     
 -   Inicie o projeto
