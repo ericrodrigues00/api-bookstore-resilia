@@ -8,7 +8,7 @@
     -   o uso do padrão REST, com os verbos referentes ao protocolo HTTP;
     -   o uso do padrão DAO ou de ORM para interagir com o banco de dados - optamos por utilizar o ORM Sequelize e o banco de dados SQLite.;
     -   Utilização do padrão MVC.
-    - 
+    
 ### Como utilizar a API.
 
 -   Será necessário ter instalado em sua máquina a versão 16.14.0 do NodeJS, o VSCode e o Insomnia;
