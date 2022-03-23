@@ -17,7 +17,7 @@
     
     `git clone https://github.com/ericrodrigues00/api-bookstore-resilia.git`
     
--   Abra o projeto no VSCode, abra o terminal e assegure-se que está na pasta  `mr-api`. 
+-   Abra o projeto no VSCode, abra o terminal e assegure-se que está na pasta correta. 
     
 -   Instale as dependências
     
